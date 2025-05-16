@@ -13,7 +13,7 @@ Traffix is a traffic management simulation system that uses video processing and
 - Simulation with video playback pausing/resuming according to signal states.
 
 ## Folder Structure
-
+\\
 Traffix/
 │
 ├── Arduino/
@@ -28,10 +28,8 @@ Traffix/
 ├── main.py # Main Python script for traffic simulation
 ├── README.md # This file
 └── requirements.txt # Python dependencies
+\\
 
-markdown
-Copy
-Edit
 
 ## Requirements
 
