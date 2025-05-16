@@ -1,5 +1,3 @@
----
-
 # 🚦 Traffix - Smart Traffic Management Simulation 🚦
 
 *Traffix* is an advanced traffic management simulation system combining *real-time vehicle detection* with *Arduino-controlled traffic lights*. Using OpenCV for video processing and Arduino hardware signaling, it dynamically manages traffic lights based on live vehicle counts from multiple lanes.
@@ -227,4 +225,3 @@ MIT License
 *Enjoy managing traffic smarter and safer with Traffix!* 🚦🚗🛑
 
 ---
-main.py
