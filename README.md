@@ -13,7 +13,7 @@ Traffix is a traffic management simulation system that uses video processing and
 - Simulation with video playback pausing/resuming according to signal states.
 
 ## Folder Structure
-\\
+```
 Traffix/
 │
 ├── Arduino/
@@ -28,7 +28,7 @@ Traffix/
 ├── main.py # Main Python script for traffic simulation
 ├── README.md # This file
 └── requirements.txt # Python dependencies
-\\
+```
 
 
 ## Requirements
@@ -56,14 +56,13 @@ Ensure the videos folder contains the traffic lane videos traffic1.mp4 and traff
 Run the simulation:
 
 bash
-Copy
-Edit
+
 python main.py
 A window titled Traffic Management Simulation will open showing the processed video streams with overlays of signal status, vehicle counts, and timers.
 
 Press Esc key to exit the simulation.
-
-How It Works
+```
+## How It Works
 The script captures frames from four video streams representing two North-South and two East-West lanes.
 
 Vehicle detection uses background subtraction (MOG2) and contour detection to count vehicles.
