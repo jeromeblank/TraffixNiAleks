@@ -19,7 +19,7 @@ s
 ---
 
 ## 📂 Folder Structure
-
+'''
 Traffix/
 │
 ├── Arduino/
@@ -36,7 +36,7 @@ Traffix/
 ├── scripts.py                      # Script launcher for concurrent processes
 ├── README.md                       # This file
 └── requirements.txt                # Python dependencies
-
+'''
 ---
 
 ## ⚙️ System Requirements
